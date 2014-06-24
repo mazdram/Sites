@@ -25,7 +25,7 @@ address,caption,cite,code,dfn,th,var {
 	font-weight:normal;
 }
 ol,ul {
-	list-style:none;
+	list-style: circle;margin-left: 30px;margin-bottom: 1.5;
 }
 caption,th {
 	text-align:left;
